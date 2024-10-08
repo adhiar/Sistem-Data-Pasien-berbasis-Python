@@ -5,8 +5,7 @@ Sistem data pasien ini merupakan hasil dari protoype sederhana menggunakan beber
 sistem ini belum bisa dikatakan telah dibuat dengan baik, melainkan hanya pemodelan sederhana
 sehingga memerlukan banyak file csv di dalamnya
 
-# Library eksternal yang Dibutuhkan
------------------------------------------------------------------------------------------------------------------------
-# seaborn
-# matplotlib
-# pandas
+## Run Command
+```sh
+pip install -r requirements.txt
+```
